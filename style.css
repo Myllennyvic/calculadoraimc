@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 55px;
+    position: relative;
+    justify-content: center;
+    color: brown;
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 30px;
+}
+.container2{
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px brown solid;;
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 242, 225);
+}
+
+.imc{
+    text-align: center;
+    color: brown;
+    font-size: 10px;
+}
+
+.classificacao{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+}
+classificacao{
+    font-size: 100px;
+}
+input{
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+
